@@ -1,0 +1,12 @@
+{
+    "capes": [
+        {
+            "id": 1,
+            "name": "Default cape",
+            "description": "Default cape for users",
+            "image": "https://i.imgur.com/qnjqXQ7.png",
+            "price": "Free"
+        }
+    ]
+
+}
